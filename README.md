@@ -30,8 +30,7 @@
 
 | 게임오버 | 올클리어 |
 |:---:|:---:|
-| <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/820ae5dc-3a68-4b90-bad4-11c50c5b26b7" />
-| <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/34bef837-e46b-40d2-a06b-f7fecad254ad" />|
+| <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/820ae5dc-3a68-4b90-bad4-11c50c5b26b7" />| <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/34bef837-e46b-40d2-a06b-f7fecad254ad" />|
 <!-- 📸 사진 필요: 게임오버 화면, 올클리어 화면 각각 캡처 -->
 
 ---
