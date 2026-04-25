@@ -6,7 +6,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
-![title_screen](screenshots/title_screen.png)
+<img width="747" height="834" alt="image" src="https://github.com/user-attachments/assets/a673d3f3-7d67-4c3f-9800-085148ca1258" />
+
 <!-- 📸 사진 필요: 타이틀 화면 캡처 → screenshots/title_screen.png -->
 
 <br>
