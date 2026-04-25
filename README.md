@@ -2,7 +2,7 @@
 
 **5개의 미니게임을 연속으로 클리어하는 C++ 콘솔 게임**
 
-<img width="646" height="758" alt="image" src="https://github.com/user-attachments/assets/cfb955cc-997f-450f-a9ce-12cd0c80d102" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/cfb955cc-997f-450f-a9ce-12cd0c80d102" />
 
 <!-- 📸 사진 필요: 게임 시작 타이틀 화면 캡처 후 screenshots/ 폴더에 넣기 -->
 
