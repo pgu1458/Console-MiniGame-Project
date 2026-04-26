@@ -61,11 +61,10 @@
 ---
 
 
----
-
 ## 🚀 Stage 4: Tetris Space Edition *(박은수)*
 
-![stage4](screenshots/stage4_play.png)
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/98494668-d5cf-4f17-be30-7bc865d05f23" />
+
 <!-- 📸 사진 필요: Stage 4 플레이 화면 캡처 → screenshots/stage4_play.png -->
 
 ### 📌 개요
@@ -111,7 +110,7 @@
 | 3줄 | 500점 |
 | 4줄 (테트리스) | 800점 |
 
-- 레벨이 오를수록 블록 낙하 속도 증가
+- 블록 낙하 점점 속도 증가
 - **700점 달성 → 스테이지 클리어**
 - 블록이 천장에 닿으면 → **GAME OVER**
 
@@ -119,9 +118,9 @@
 
 ### 🖼️ 플레이 화면
 
-| 게임 중 | 클리어 순간 |
-|:---:|:---:|
-| ![stage4_play](screenshots/stage4_play.png) | ![stage4_clear](screenshots/stage4_clear.png) |
+| 클리어 순간 |
+|:---:|
+|<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/25eda920-32ea-4383-95ac-0da9f111abe3" />|
 <!-- 📸 사진 필요: stage4_play.png / stage4_clear.png -->
 
 ---
