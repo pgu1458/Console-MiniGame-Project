@@ -10,6 +10,8 @@
 
 <!-- 📸 사진 필요: 타이틀 화면 캡처 → screenshots/title_screen.png -->
 
+https://youtu.be/hP82rRW_U1M
+
 <br>
 
 | 1스테이지 - Dragon Flight | 2스테이지 - Arrow Dodge | 3스테이지 - Infinity Stairs | 4스테이지 - Tetris Space | 5스테이지 - Snake Hard Mode |
