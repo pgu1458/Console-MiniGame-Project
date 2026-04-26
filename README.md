@@ -21,7 +21,7 @@
 
 
 
-https://youtu.be/hP82rRW_U1M
+시연 영상 : https://youtu.be/hP82rRW_U1M
 ---
 
 ## 🗺️ 전체 게임 구성
