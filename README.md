@@ -14,7 +14,7 @@
 
 | 1스테이지 - Dragon Flight | 2스테이지 - Arrow Dodge | 3스테이지 - Infinity Stairs | 4스테이지 - Tetris Space | 5스테이지 - Snake Hard Mode |
 |:---:|:---:|:---:|:---:|:---:|
-| ![s1](screenshots/stage1_play.png) | ![s2](screenshots/stage2_play.png) | ![s3](screenshots/stage3_play.png) | ![s4](screenshots/stage4_play.png) | ![s5](screenshots/stage5_play.png) |
+| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/852f2dc3-c34f-4b03-bacd-ecbb4c4e8289" />| ![s2](screenshots/stage2_play.png) | ![s3](screenshots/stage3_play.png) | ![s4](screenshots/stage4_play.png) | ![s5](screenshots/stage5_play.png) |
 
 ---
 
