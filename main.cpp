@@ -7,25 +7,82 @@
 
 static void showTitle() {
     system("cls");
-    setConsoleSize(44, 26);
+    setConsoleSize(52, 34);
     HANDLE h = GetStdHandle(STD_OUTPUT_HANDLE);
+
+    // 배경 별 장식
+    SetConsoleTextAttribute(h, 0x08);
+    gotoxy(2, 1); std::cout << "*       .       *       .    *     .      *";
+    gotoxy(2, 2); std::cout << "   .        *       .      *       .    *  ";
+    gotoxy(2, 30); std::cout << "   .        *       .      *       .    *  ";
+    gotoxy(2, 31); std::cout << "*       .       *       .    *     .      *";
+
+    // 메인 타이틀 박스
     SetConsoleTextAttribute(h, 0x0E);
-    gotoxy(3, 2); std::cout << "╔══════════════════════════════════╗";
-    gotoxy(3, 3); std::cout << "║        PENTA STAGE GAME          ║";
-    gotoxy(3, 4); std::cout << "╚══════════════════════════════════╝";
+    gotoxy(4, 4); std::cout << "+===========================================+";
+    gotoxy(4, 5); std::cout << "|                                           |";
+    gotoxy(4, 6); std::cout << "|        P E N T A  S T A G E               |";
+    gotoxy(4, 7); std::cout << "|              G A M E                      |";
+    gotoxy(4, 8); std::cout << "|                                           |";
+    gotoxy(4, 9); std::cout << "+===========================================+";
+
+    // 부제목
+    SetConsoleTextAttribute(h, 0x07);
+    gotoxy(13, 11); std::cout << "- 5 Stages  |  Clear All to Win -";
+
+    // 구분선
+    SetConsoleTextAttribute(h, 0x08);
+    gotoxy(4, 13); std::cout << "-------------------------------------------";
+
+    // Stage 1
+    SetConsoleTextAttribute(h, 0x0C);
+    gotoxy(6, 15); std::cout << "[ STAGE 1 ]";
+    SetConsoleTextAttribute(h, 0x07);
+    gotoxy(19, 15); std::cout << "Dragon Flight";
+    SetConsoleTextAttribute(h, 0x08);
+    gotoxy(19, 16); std::cout << "Defeat the boss (300HP)";
+
+    // Stage 2
     SetConsoleTextAttribute(h, 0x0B);
-    gotoxy(5, 6); std::cout << "STAGE 1: Dragon Flight";
-    gotoxy(8, 7); std::cout << "- Defeat the boss (300HP)!";
-    gotoxy(5, 9); std::cout << "STAGE 2: Arrow Dodge";
-    gotoxy(8, 10); std::cout << "- Survive 15 seconds!";
-    gotoxy(5, 12); std::cout << "STAGE 3: Infinity Stairs";
-    gotoxy(8, 13); std::cout << "- Collect 100 points!";
-    gotoxy(5, 15); std::cout << "STAGE 4: Tetris Space Edition";
-    gotoxy(8, 16); std::cout << "- Score 700 points!";
-    gotoxy(5, 18); std::cout << "STAGE 5: Snake Hard Mode";
-    gotoxy(8, 19); std::cout << "- Score 200 points!";
+    gotoxy(6, 18); std::cout << "[ STAGE 2 ]";
+    SetConsoleTextAttribute(h, 0x07);
+    gotoxy(19, 18); std::cout << "Arrow Dodge";
+    SetConsoleTextAttribute(h, 0x08);
+    gotoxy(19, 19); std::cout << "Survive 15 seconds";
+
+    // Stage 3
+    SetConsoleTextAttribute(h, 0x0A);
+    gotoxy(6, 21); std::cout << "[ STAGE 3 ]";
+    SetConsoleTextAttribute(h, 0x07);
+    gotoxy(19, 21); std::cout << "Infinity Stairs";
+    SetConsoleTextAttribute(h, 0x08);
+    gotoxy(19, 22); std::cout << "Collect 100 points";
+
+    // Stage 4
+    SetConsoleTextAttribute(h, 0x0E);
+    gotoxy(6, 24); std::cout << "[ STAGE 4 ]";
+    SetConsoleTextAttribute(h, 0x07);
+    gotoxy(19, 24); std::cout << "Tetris Space Edition";
+    SetConsoleTextAttribute(h, 0x08);
+    gotoxy(19, 25); std::cout << "Score 700 points";
+
+    // Stage 5
+    SetConsoleTextAttribute(h, 0x0D);
+    gotoxy(6, 27); std::cout << "[ STAGE 5 ]";
+    SetConsoleTextAttribute(h, 0x07);
+    gotoxy(19, 27); std::cout << "Snake Hard Mode";
+    SetConsoleTextAttribute(h, 0x08);
+    gotoxy(19, 28); std::cout << "Score 200 points";
+
+    // 구분선
+    SetConsoleTextAttribute(h, 0x08);
+    gotoxy(4, 30); std::cout << "-------------------------------------------";
+
+    // 시작 안내
     SetConsoleTextAttribute(h, 0x0F);
-    gotoxy(12, 23); std::cout << "Press any key to start";
+    gotoxy(14, 32); std::cout << ">> Press any key to START <<";
+
+    SetConsoleTextAttribute(h, 0x07);
     _getch();
 }
 
