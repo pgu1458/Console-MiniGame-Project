@@ -10,7 +10,6 @@
 
 <!-- 📸 사진 필요: 타이틀 화면 캡처 → screenshots/title_screen.png -->
 
-https://youtu.be/hP82rRW_U1M
 
 <br>
 
@@ -18,6 +17,11 @@ https://youtu.be/hP82rRW_U1M
 |:---:|:---:|:---:|:---:|:---:|
 | <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/852f2dc3-c34f-4b03-bacd-ecbb4c4e8289" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ba1d0d86-f865-49a2-aea8-a91803337802" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/924a0670-30a8-442a-941a-e5baa1705dca" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ed6cf520-729a-4169-be27-889a36de4652" />|<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/0e0f795b-d929-47db-8027-bfea757013f7" />|
 
+
+
+
+
+https://youtu.be/hP82rRW_U1M
 ---
 
 ## 🗺️ 전체 게임 구성
