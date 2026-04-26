@@ -14,7 +14,7 @@
 
 | 1스테이지 - Dragon Flight | 2스테이지 - Arrow Dodge | 3스테이지 - Infinity Stairs | 4스테이지 - Tetris Space | 5스테이지 - Snake Hard Mode |
 |:---:|:---:|:---:|:---:|:---:|
-| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/852f2dc3-c34f-4b03-bacd-ecbb4c4e8289" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ba1d0d86-f865-49a2-aea8-a91803337802" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/924a0670-30a8-442a-941a-e5baa1705dca" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ed6cf520-729a-4169-be27-889a36de4652" />|  |
+| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/852f2dc3-c34f-4b03-bacd-ecbb4c4e8289" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ba1d0d86-f865-49a2-aea8-a91803337802" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/924a0670-30a8-442a-941a-e5baa1705dca" />| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ed6cf520-729a-4169-be27-889a36de4652" />|<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/0e0f795b-d929-47db-8027-bfea757013f7" />|
 
 ---
 
