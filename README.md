@@ -60,20 +60,6 @@
 
 ---
 
-## 📸 게임 화면
-
-| Stage 1 - Dragon Flight | Stage 2 - Arrow Dodge | Stage 3 - Infinity Stairs |
-|:---:|:---:|:---:|
-| ![stage1](screenshots/stage1_play.png) | ![stage2](screenshots/stage2_play.png) | ![stage3](screenshots/stage3_play.png) |
-
-| Stage 4 - Tetris Space Edition | Stage 5 - Snake Hard Mode |
-|:---:|:---:|
-| ![stage4](screenshots/stage4_play.png) | ![stage5](screenshots/stage5_play.png) |
-
-<!-- 📸 사진 필요: 각 스테이지 플레이 화면 캡처 후 screenshots/ 폴더에 저장
-     stage1_play.png / stage2_play.png / stage3_play.png / stage4_play.png / stage5_play.png -->
-
----
 
 ---
 
